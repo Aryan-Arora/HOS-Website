@@ -1,0 +1,47 @@
+html{
+    background-color:black;
+    
+    padding:20px;
+}
+h1{
+    font-size:50px;
+    text-align: center;
+    color: aliceblue;
+    
+}
+.main-elements{
+    
+    margin-left: 40px;
+    border-radius: 20px;
+   
+    padding:10px;
+    font-size:15px;
+    
+}
+a{
+    
+    margin-left:60px;
+    border-radius: 20px;
+    
+    padding:10px;
+    font-size:15px;
+}
+a:link{
+    color: aliceblue;
+}
+a:visited{
+    color: aliceblue;
+}
+
+
+
+
+.FAQ{
+    margin-top:400px;
+}
+.chat{
+    position: relative;
+    left:700px;
+    top:-20px;
+    
+}
